@@ -1,50 +1,6 @@
 [
   {
-    "key": "ABC123",
-    "status": "used"
-  },
-  {
-    "key": "XYZ789",
-    "status": "active"
-  },
-  {
-    "key": "DEF456",
-    "status": "used"
-  },
-  {
-    "key": "hello",
-    "status": "used"
-  },
-  {
-    "key": "hdf",
-    "status": "used"
-  },
-  {
-    "key": "jh",
-    "status": "used"
-  },
-  {
-    "key": "hi",
-    "status": "used"
-  },
-  {
-    "key": "gf",
-    "status": "used"
-  },
-  {
-    "key": "fghjsx",
-    "status": "used"
-  },
-  {
     "key": "hey",
-    "status": "used"
-  },
-  {
-    "key": "dfdffdfdfdfdfdfdffdfjgdtjgidje",
-    "status": "used"
-  },
-  {
-    "key": "zdzabhzah",
-    "status": "used"
+    "status": "active"
   }
 ]
